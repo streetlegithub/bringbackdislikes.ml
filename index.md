@@ -9,3 +9,14 @@ Day 101-150 of poorly drawn stuff until YouTube brings back the dislike count.
 
 Day 151-200 of poorly drawn stuff until YouTube brings back the dislike count.
 > [Day 151-200](./200)
+
+Day 201-250 of poorly drawn stuff until YouTube brings back the dislike count.
+> [Day 201-250](./250)
+
+Day 251-300 of poorly drawn stuff until YouTube brings back the dislike count.
+> [Day 251-300](./300)
+
+Day 301-350 of poorly drawn stuff until YouTube brings back the dislike count.
+> [Day 301-350](./350)
+
+<i>There is currently a bug where gifs will not animate. I am looking into this.</i>

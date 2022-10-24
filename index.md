@@ -16,7 +16,7 @@ Day 201-250 of poorly drawn stuff until YouTube brings back the dislike count.
 Day 251-300 of poorly drawn stuff until YouTube brings back the dislike count.
 > [Day 251-300](./300)
 
-Day 301-350 of poorly drawn stuff until YouTube brings back the dislike count.
-> [Day 301-350](./350)
+Day 301-Latest of poorly drawn stuff until YouTube brings back the dislike count.
+> [Day 301-Latest](./350)
 
 <i>Site Created 23rd October 2022</i>

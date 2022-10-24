@@ -19,4 +19,4 @@ Day 251-300 of poorly drawn stuff until YouTube brings back the dislike count.
 Day 301-350 of poorly drawn stuff until YouTube brings back the dislike count.
 > [Day 301-350](./350)
 
-<i>There is currently a bug where gifs will not animate. I am looking into this.</i>
+<i>Site Created 23rd October 2022</i>

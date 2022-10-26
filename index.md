@@ -1,6 +1,3 @@
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5850853284840895"
-     crossorigin="anonymous"></script>
-
 Day 1-50 of poorly drawn stuff until YouTube brings back the dislike count.
 > [Day 1-50](./50)
 
@@ -23,3 +20,5 @@ Day 301-Latest of poorly drawn stuff until YouTube brings back the dislike count
 > [Day 301-Latest](./350)
 
 <i>Site Created 23rd October 2022</i>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5850853284840895"
+     crossorigin="anonymous"></script>

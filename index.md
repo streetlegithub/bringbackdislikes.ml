@@ -1,3 +1,6 @@
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5850853284840895"
+     crossorigin="anonymous"></script>
+
 Day 1-50 of poorly drawn stuff until YouTube brings back the dislike count.
 > [Day 1-50](./50)
 

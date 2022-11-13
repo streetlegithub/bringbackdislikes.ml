@@ -17,7 +17,7 @@ Day 251-300 of poorly drawn stuff until YouTube brings back the dislike count.
 > [Day 251-300](./300)
 
 Day 301-350 of poorly drawn stuff until YouTube brings back the dislike count.
-> [Day 301-Latest](./350)
+> [Day 301-350](./350)
 
 Day 350-Latest of poorly drawn stuff until YouTube brings back the dislike count.
 > [Day 350-Latest](./400)
